@@ -1,6 +1,6 @@
 Your company has been providing services to the website known as Kiwifarms, which has been the subject of a lot of news articles recently. I’d like to urge you to refuse service to this website. Kiwifarms is a notorious stalking and doxing website, which tries to harass their victims to suicide. They egange in group harassment strategies, voted it was okay to target children, and will also target families, friends, and work places of their targets. Their main targets are the mentally ill, autistics, transgender people and other marginalized communities. 
 
-Kiwifarms uses you as part of their DDOS protection - Your IP hosts a server that will then fetch the information from the original servers, both hiding his location, and allowing your servers to protect him from DDOS. His current plan is to ‘burn through’ VPS providers, with no care of the bad press his company will bring, simply to keep his hate site online. 
+Kiwifarms uses you as part of their DDOS protection - Your IP hosts a server that will accept connections from the outside world, then fetch the information from the original servers, both hiding his location, and allowing your servers to protect him from DDOS. His current plan is to ‘burn through’ VPS providers, with no care of the bad press his company will bring, simply to keep his hate site online.
 
 Joshua Moon of 1776 Hosting LLC has been de-platformed from many VPS providers; his site is dedicated to stalking and harassing people, and he sites become the target of DDOS attacks on a regular basis. 
 
